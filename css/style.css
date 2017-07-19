@@ -1,0 +1,183 @@
+nav ul li a {
+  color: black !important; 
+}
+
+#logo-container {
+  color: black !important;
+}
+
+h3{
+	color: white !important; 
+
+}
+
+#logo-container {
+	padding-left: 15px !important;
+	font-family: Georgia !important;
+}
+
+#menu{
+	color: black !important;
+}
+
+
+#Registrate, #Ingresa {
+	background-color: #ffd600 !important;
+}
+
+#pasos{
+	width: 90% !important;
+}
+
+#paso3, #paso1, #paso2, #paso3{
+	color: #ffd600 !important;
+}
+
+#facebook, #twitter, #instagram{
+	width: 20px !important;
+	height: 20px !important;
+}
+
+#logonav {
+	width: 10px !important;
+	height: 10px !important;
+	margin-top: 3px !important;
+	margin-left: 15px !important;
+}
+
+/* bebidas */
+
+#bebidasbotones {
+	margin-top: 15px !important;
+	width: 90% !important;
+}
+
+#bebidasbotones {
+	width: 90% !important;
+}
+
+#titulobebidas{
+	width: 90% !important;
+	margin-top: 15px !important;
+}
+
+#lineahr{
+	color: #fafafa !important;
+}
+
+#bebidascatalogo{
+	width: 90% !important;
+}
+
+#search {
+    height: 30px !important;
+    width: 400px !important;
+}
+
+label {
+    margin-bottom: 30px !important;
+}
+
+/* Registro */
+
+#hrregistro {
+	color: #fafafa !important;
+}
+
+#form-registration{
+
+}
+
+#container-form{
+    width: 100% !important;
+    padding: 40px !important;
+    background-color: #fff9c4 !important;
+    border-radius: 7px !important;
+}
+
+/* login */
+
+body {
+      display: flex !important;
+      min-height: 100vh !important;
+      flex-direction: column !important;
+}
+
+main {
+      flex: 1 0 auto !important;
+}
+
+body {
+      background: #fff !important;
+}
+
+.input-field input[type=date]:focus + label,
+.input-field input[type=text]:focus + label,
+.input-field input[type=email]:focus + label,
+.input-field input[type=password]:focus + label {
+      color: #e91e63;
+}
+
+.input-field input[type=date]:focus,
+.input-field input[type=text]:focus,
+.input-field input[type=email]:focus,
+.input-field input[type=password]:focus {
+      border-bottom: 2px solid #e91e63 !important;
+      box-shadow: none !important;
+}
+
+#bodylogin {
+	background-color: #fff9c4 !important;
+}
+
+/* Nosotros */
+
+#containernosotros {
+	width: 70% !important;
+}
+
+#mision, #vision {
+    margin-top: 70px !important;
+}
+
+#vasonosotros, #copanosotros {
+	width: 190px !important;
+	height: 190px !important;
+}
+
+html, body, #mapa {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 100% !important;
+}
+
+/* Contacto */
+
+#formulariocontacto {
+	margin: auto !important;
+	background-color: #fff9c4 !important;
+	box-sizing: border-box !important;
+	border-radius: 7px !important;
+	padding: 20px !important;
+	margin-top: 30px !important;
+}
+
+#textareacontacto {
+	min-height: 100px !important;
+	max-height: 140px !important;
+	max-width: 100% !important;
+
+}
+
+/* Footer estatico para carrito y bienvenido */
+
+#bodybienvenido, #bodycarrito, #bodypedidorealizado, #bodyadmin{
+  display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+#main {
+    flex: 1 0 auto;
+}
+
